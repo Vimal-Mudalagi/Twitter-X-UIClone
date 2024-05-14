@@ -2,6 +2,9 @@
 
 This project, known as "Twitter UI Clone," is an exact replica of the Twitter interface. With precise attention to detail, this UI clone faithfully recreates the familiar Twitter layout, providing users with an immersive experience that mirrors the original platform's aesthetics and interactions.
 
+![twitter](https://github.com/Vimal-Mudalagi/Twitter-X-UIClone/assets/134709589/f7587fab-cec9-4648-9be9-1c4b126277e8)
+
+
 ### Features
 
 - **Tailwind CSS**: Utilizes the power of Tailwind CSS for rapid development and effortless styling. Tailwind CSS enables us to create a highly customizable interface with minimal effort.
